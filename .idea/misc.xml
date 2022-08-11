@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MORSI STORE DZ/Desktop/A_Git_kt_Projects/Project_001/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.167" />
         <entry key="..\:/Users/MORSI STORE DZ/Desktop/A_Git_kt_Projects/Project_001/app/src/main/res/drawable/ic_download__1_.xml" value="0.167" />
+        <entry key="..\:/Users/MORSI STORE DZ/Desktop/A_Git_kt_Projects/Project_001/app/src/main/res/drawable/ic_launcher_background.xml" value="0.167" />
         <entry key="..\:/Users/MORSI STORE DZ/Desktop/A_Git_kt_Projects/Project_001/app/src/main/res/drawable/splach_img.xml" value="0.167" />
         <entry key="..\:/Users/MORSI STORE DZ/Desktop/A_Git_kt_Projects/Project_001/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.167" />
+        <entry key="..\:/Users/MORSI STORE DZ/Desktop/A_Git_kt_Projects/Project_001/app/src/main/res/mipmap-anydpi-v26/ic_this_now.xml" value="0.167" />
       </map>
     </option>
   </component>
