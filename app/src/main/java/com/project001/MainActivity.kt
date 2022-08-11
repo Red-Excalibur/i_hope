@@ -24,6 +24,8 @@ class MainActivity : ComponentActivity() {
 
         contextt=this
 
+
+
         setContent {
             Project001Theme {
                 androidx.compose.material.Surface(
