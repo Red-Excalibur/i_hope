@@ -36,24 +36,8 @@ fun ShowMain  (
 
     val context = LocalContext.current
 
-  Column(
-      modifier = Modifier.fillMaxSize()
-  ) {
-      Row(
-          modifier= Modifier
-              .fillMaxWidth()
-              .padding(30.dp),
-          horizontalArrangement = Arrangement.Center,
-          Alignment.CenterVertically,
 
-          ) {
 
-          Button(onClick = {Toast.makeText(context,"Clicked!!!!",Toast.LENGTH_SHORT).show()
-              viewModel.getData()
-          }) {
-              Text(text = "Click me to test")
-          }
-      }
       Spacer(modifier = Modifier.height(10.dp))
       LazyColumn(
           modifier = Modifier.fillMaxSize()
@@ -63,7 +47,7 @@ fun ShowMain  (
 
           }
       }
-  }
+
 }
 
 @Composable

@@ -27,6 +27,9 @@ class MainScreenViewModel @Inject constructor(
     private val _data = MutableStateFlow<List<Data>>(emptyList())
     val data : StateFlow<List<Data>> = _data
 
+init {
+    getData()
+}
 
        fun getData() {
            viewModelScope.launch(Dispatchers.IO) {
